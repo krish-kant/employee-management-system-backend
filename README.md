@@ -4,22 +4,12 @@ employee-management-system-backend in spring boot
 
 # rest api
 
-    // get all employees
+![get all employees](get-all-employees.PNG)
 
-![Screenshot](src\main\resources\static\get-all-employees.PNG)
+![create employee](create-employee.PNG)
 
-    // create employee
+![get employee by Id](get-employee.PNG)
 
-![Screenshot](src\main\resources\static\create-employee.PNG)
+![update employee](update-employee.PNG)
 
-    // get employee by Id
-
-![Screenshot](src\main\resources\static\get-employee.PNG)
-
-    // update employee
-
-![Screenshot](src\main\resources\static\update-employee.PNG)
-
-    // delete employee
-
-![Screenshot](src\main\resources\static\delete-employee.PNG)
+![delete employee](delete-employee.PNG)
