@@ -5,16 +5,21 @@ employee-management-system-backend in spring boot
 # rest api
 
     // get all employees
-    @GetMapping("/employees")
+
+![Screenshot](src\main\resources\static\get-all-employees.PNG)
 
     // create employee
-    @PostMapping("/employees")
+
+![Screenshot](src\main\resources\static\create-employee.PNG)
 
     // get employee by Id
-    @GetMapping("/employees/{id}")
+
+![Screenshot](src\main\resources\static\get-employee.PNG)
 
     // update employee
-    @PutMapping("/employees/{id}")
+
+![Screenshot](src\main\resources\static\update-employee.PNG)
 
     // delete employee
-    @DeleteMapping("/employees/{id}")
+
+![Screenshot](src\main\resources\static\delete-employee.PNG)
